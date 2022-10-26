@@ -1,0 +1,422 @@
+{
+    "pageProps": {
+        "data": {
+            "course": {
+                "id": 1,
+                "title": "Learning to Write as a Professional Author",
+                "thumbnail": {
+                    "src": "/images/courses/370/course-1.jpg"
+                },
+                "published_at": "2020-12-01T00:00:00.000Z",
+                "category": "Business",
+                "price": 50,
+                "currency": "$",
+                "language": "english",
+                "instructor": 1,
+                "duration": "48 hours",
+                "total_lectures": 24,
+                "total_students": 69,
+                "membership": [
+                    "silver",
+                    "gold",
+                    "diamond"
+                ],
+                "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "curriculum": [
+                    "chapter-01",
+                    "chapter-02",
+                    "chapter-03",
+                    "chapter-04",
+                    "chapter-05"
+                ],
+                "reviews": {
+                    "average": 4.5,
+                    "count": 2,
+                    "rating_details": {
+                        "1": 0,
+                        "2": 0,
+                        "3": 0,
+                        "4": 1,
+                        "5": 1
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "user": {
+                                "name": "Edna Watson",
+                                "avatar": {
+                                    "src": "/images/review-author/author1.jpeg"
+                                }
+                            },
+                            "rating": 5,
+                            "title": "Cover all my needs",
+                            "review": "The course identify things we want to change and then figure out the things that need to be done to create the desired outcome. The course helped me in clearly define problems and generate a wider variety of quality solutions. Support more structures analysis of options leading to better decisions."
+                        },
+                        {
+                            "id": 2,
+                            "user": {
+                                "name": "Owen Christ",
+                                "avatar": {
+                                    "src": "/images/review-author/author2.jpeg"
+                                }
+                            },
+                            "rating": 4.5,
+                            "title": "Engaging & Fun",
+                            "review": "This is the third course I attend from you, and I absolutely loved all of them. Especially this one on leadership. Your method of explaining the concepts, fun, engaging and with real-world quizples, is excellent. This course will help me a lot in my job, my career, and life in general, and I thank you for that. Thank you for improving the lives of many people with engaging and in-depth courses."
+                        }
+                    ]
+                },
+                "description": [
+                    {
+                        "id": 1,
+                        "type": "text",
+                        "content": "Now more than ever, corporations are investing heavily in IT. The quality of these investments affects the daily work of millions."
+                    },
+                    {
+                        "id": 2,
+                        "type": "text",
+                        "content": "Yet it’s not uncommon to see industry surveys where the failure rates for IT projects is over 50%. It’s possible to do better and it’s possible to do so consistently. Use the Business Model Canvas to focus your company strategy and facilitate buy-in from stakeholders."
+                    },
+                    {
+                        "id": 3,
+                        "type": "iframe",
+                        "content": {
+                            "src": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "alt": "Drive Digital Transformation With Platform Strategies | Info-Tech Analyst Perspective"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "type": "text",
+                        "content": "In this two-week course, we’ll step through major challenges within corporate IT and how to address them with the disciplined use of design thinking, Lean Startup, and agile as a team framework."
+                    },
+                    {
+                        "id": 5,
+                        "type": "text",
+                        "content": "Translate your work on the Canvas to specific charters in IT. Rapidly prototype strategically-aligned processes for implementation within your IT infrastructure. How do you define a customer-centric strategy you can actually execute? To do strategic IT, you’ve got to have a strategy! Ideally, you need one that’s easy to understand and use as a clear basis for action."
+                    },
+                    {
+                        "id": 6,
+                        "type": "text",
+                        "content": "That’s what you’ll learn in this course."
+                    },
+                    {
+                        "id": 7,
+                        "type": "heading",
+                        "content": "A Short Description"
+                    },
+                    {
+                        "id": 8,
+                        "type": "text",
+                        "content": "A customer-centric way of doing business is a way that provides a positive customer experience before and after the sale in order to drive repeat business, enhance customer loyalty and improve business growth."
+                    },
+                    {
+                        "id": 9,
+                        "type": "text",
+                        "content": "But, a customer-centric company is more than a company that offers good service. Both Amazon and Zappos are prime quizples of brands that are customer-centric and have spent years creating a culture around the customer and their needs. Their commitment to delivering customer value is genuine – In fact, Zappos is happy to fire employees if they do not fit within their customer-centric culture!"
+                    },
+                    {
+                        "id": 10,
+                        "type": "text",
+                        "content": "But, how important is being customer-centric? The good news is that’s becoming very important! Econsultancy recently asked what the most important characteristic is in order to establish a truly “digital-native” culture. The answer to that question and leading the responses with 58% was to be customer-centric."
+                    },
+                    {
+                        "id": 11,
+                        "type": "text",
+                        "content": "Enroll in this course to find out."
+                    }
+                ],
+                "slug": "course-01",
+                "path": "/courses/course-01"
+            },
+            "curriculum": [
+                {
+                    "id": "chapter-01",
+                    "title": "Change simplification",
+                    "description": "General introduction to customer-centric strategies",
+                    "lessons": [
+                        {
+                            "title": "Lesson 01: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "free",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "30 Min",
+                            "slug": "lesson-01",
+                            "path": "/courses/lessons/course-01/lesson-01"
+                        },
+                        {
+                            "title": "Lesson 02: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "duration": "45 Min",
+                            "slug": "lesson-02",
+                            "path": "/courses/lessons/course-01/lesson-02"
+                        },
+                        {
+                            "title": "Lesson 03: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "duration": "29 Min",
+                            "slug": "lesson-03",
+                            "path": "/courses/lessons/course-01/lesson-03"
+                        }
+                    ]
+                },
+                {
+                    "id": "chapter-02",
+                    "title": "Customer Advisory Board",
+                    "description": "Learn about the basics of Customer Advisory Board",
+                    "lessons": [
+                        {
+                            "title": "Lesson 04: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "free",
+                            "duration": "35 Min",
+                            "slug": "lesson-04",
+                            "path": "/courses/lessons/course-01/lesson-04"
+                        },
+                        {
+                            "title": "Lesson 05: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-05",
+                            "path": "/courses/lessons/course-01/lesson-05"
+                        }
+                    ]
+                },
+                {
+                    "id": "chapter-03",
+                    "title": "Customer Advisory Board",
+                    "description": "Learn about the basics of Customer Advisory Board",
+                    "lessons": [
+                        {
+                            "title": "Lesson 06: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-06",
+                            "path": "/courses/lessons/course-01/lesson-06"
+                        },
+                        {
+                            "title": "Lesson 07: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-07",
+                            "path": "/courses/lessons/course-01/lesson-07"
+                        },
+                        {
+                            "title": "Lesson 08: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-08",
+                            "path": "/courses/lessons/course-01/lesson-08"
+                        }
+                    ]
+                },
+                {
+                    "id": "chapter-04",
+                    "title": "Customer Advisory Board",
+                    "description": "Learn about the basics of Customer Advisory Board",
+                    "lessons": [
+                        {
+                            "title": "Lesson 09: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-09",
+                            "path": "/courses/lessons/course-01/lesson-09"
+                        },
+                        {
+                            "title": "Lesson 10: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-10",
+                            "path": "/courses/lessons/course-01/lesson-10"
+                        },
+                        {
+                            "title": "Lesson 11: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "33 Min",
+                            "slug": "lesson-11",
+                            "path": "/courses/lessons/course-01/lesson-11"
+                        }
+                    ]
+                },
+                {
+                    "id": "chapter-05",
+                    "title": "Customer Advisory Board",
+                    "description": "Learn about the basics of Customer Advisory Board",
+                    "lessons": [
+                        {
+                            "title": "Lesson 12: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "55 Min",
+                            "slug": "lesson-12",
+                            "path": "/courses/lessons/course-01/lesson-12"
+                        },
+                        {
+                            "title": "Lesson 13: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "22 Min",
+                            "slug": "lesson-13",
+                            "path": "/courses/lessons/course-01/lesson-13"
+                        },
+                        {
+                            "title": "Lesson 14: Simple, attainable goals",
+                            "type": "lesson",
+                            "access": "paid",
+                            "video": "https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed",
+                            "duration": "57 Min",
+                            "slug": "lesson-14",
+                            "path": "/courses/lessons/course-01/lesson-14"
+                        }
+                    ]
+                }
+            ],
+            "instructor": {
+                "id": 1,
+                "name": "Arthur Will",
+                "image": {
+                    "src": "/images/profile/instructor.jpeg"
+                },
+                "designation": "Advanced Educator",
+                "bio": "Arthur is a brilliant educator, whose life was spent for computer science and love of nature. Being a female, she encountered a lot of obstacles and was forbidden to work in this field by her family. With a true spirit and talented gift, she was able to succeed and set an example for others.",
+                "socials": [
+                    {
+                        "label": "twitter",
+                        "icon": "fab fa-twitter",
+                        "url": "https://twitter.com"
+                    },
+                    {
+                        "label": "facebook",
+                        "icon": "fab fa-facebook-f",
+                        "url": "https://www.facebook.com"
+                    },
+                    {
+                        "label": "instagram",
+                        "icon": "fab fa-instagram",
+                        "url": "https://www.instagram.com"
+                    },
+                    {
+                        "label": "pinterest",
+                        "icon": "fab fa-pinterest",
+                        "url": "https://www.pinterest.com"
+                    },
+                    {
+                        "label": "youtube",
+                        "icon": "fab fa-youtube",
+                        "url": "https://www.youtube.com"
+                    }
+                ]
+            },
+            "relatedCourses": [
+                {
+                    "category": "Business",
+                    "title": "Learning to Write as a Professional Author",
+                    "slug": "course-01",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-1.jpg"
+                    },
+                    "total_lectures": 24,
+                    "total_students": 69,
+                    "price": 50,
+                    "currency": "$",
+                    "published_at": "2020-12-01T00:00:00.000Z",
+                    "path": "/courses/course-01"
+                },
+                {
+                    "category": "Business",
+                    "title": "Productivity Machine – Focus in a Distracted World",
+                    "slug": "course-19",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-19.jpg"
+                    },
+                    "total_lectures": 10,
+                    "total_students": 42,
+                    "price": 32,
+                    "currency": "$",
+                    "published_at": "2019-05-01T00:00:00.000Z",
+                    "path": "/courses/course-19"
+                },
+                {
+                    "category": "Business",
+                    "title": "How to be Successful: Create A Growth Mindset For Success",
+                    "slug": "course-17",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-17.jpg"
+                    },
+                    "total_lectures": 4,
+                    "total_students": 55,
+                    "price": 30,
+                    "currency": "$",
+                    "published_at": "2019-04-01T00:00:00.000Z",
+                    "path": "/courses/course-17"
+                },
+                {
+                    "category": "Business",
+                    "title": "How to Build Confidence in Your Abilities",
+                    "slug": "course-18",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-18.jpg"
+                    },
+                    "total_lectures": 6,
+                    "total_students": 33,
+                    "price": 30,
+                    "currency": "$",
+                    "published_at": "2019-04-01T00:00:00.000Z",
+                    "path": "/courses/course-18"
+                },
+                {
+                    "category": "Business",
+                    "title": "Academic Listening and Note-taking",
+                    "slug": "course-04",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-4.jpg"
+                    },
+                    "total_lectures": 35,
+                    "total_students": 67,
+                    "price": 85,
+                    "currency": "$",
+                    "published_at": "2018-03-01T00:00:00.000Z",
+                    "path": "/courses/course-04"
+                },
+                {
+                    "category": "Business",
+                    "title": "Customer-centric Info-Tech Strategies",
+                    "slug": "course-02",
+                    "thumbnail": {
+                        "src": "/images/courses/370/course-2.jpg"
+                    },
+                    "total_lectures": 20,
+                    "total_students": 50,
+                    "price": 0,
+                    "currency": "$",
+                    "published_at": "2018-01-01T00:00:00.000Z",
+                    "path": "/courses/course-02"
+                }
+            ]
+        },
+        "layout": {
+            "headerShadow": true,
+            "headerFluid": false,
+            "footerMode": "light"
+        }
+    },
+    "__N_SSG": true
+}
