@@ -18,6 +18,13 @@ app.get("/courses/:id", (req, res) => {
     res.send(course)
     console.log(course)
 })
+app.get("/checkout/:id", (req, res) => {
+    const id = req.params.id
+    console.log(id)
+    const course = data.find(d => d.CourseID == id)
+    res.send(course)
+    console.log(course)
+})
 // app.get("/categories", (req, res) => {
 //   res.send(data)
 // });
