@@ -60,32 +60,30 @@
             "average": 4.5
         },
         "ShortDescription": [
-            "Create modern websites with HTML CSS and JavaScript",
-            "develop web applications from scratch",
-            "improved use of HTML CSS and JavaScript",
-            "write more efficient web code"
+            "Learn to build applications using laravel",
+            "You will learn about Laravel ORM (Object Relational Mapper) and Raw SQL queries. Database stuff.",
+            "Database: Eloquent One to One - CRUD",
+            "How to create migrations and what they are"
         ],
         "CourseFeatures": [
-            "21.5 hours of video",
-            "68 articles + resources",
+            "43 hours of video",
+            "51 articles + resources",
             "Certificate of completion"
         ],
         "Syllabus": [
-            "HTML Basics",
-            "CSS Basics",
-            "JS Basics",
-            "Project Project",
-            "HTML Advanced",
-            "CSS Advanced",
-            "JS ES6",
-            "Project Personal Blog"
+            "Environment Setup",
+            "Routing",
+            "Controllers",
+            "Fundamentals",
+            "SQL Queries",
+            "CRUD Operation",
+            "Validation",
+            "Authentication"
         ],
         "Requirement": [
-            "desire to learn",
-            "Hardcore commitment",
-            "Access to internet"
+            "Basic OOP PHP"
         ],
-        "Description": "Develop the skills you need in order to be able to make websites from scratch.  Learn to use HTML5, CSS3, JavaScript and jQuery together in building modern beautiful, fully functional amazing websites.HTML CSS and JavaScript are the cornerstones of the web.  These are the foundation languages of every web page today, and every page has all or combinations of these core technologies.This course is perfect for anyone who wants to learn about web design and web development.   Knowing how to use these core technologies provides limitless possibilities.  This course will help you get started quickly and lay the foundation for programming fundamentals."
+        "Description": "Laravel has become one of the most popular if not the most popular PHP framework. Employers are asking for this skill for all web programming jobs and in this course we have put together all of them, to give you the best chance of landing that job; or taking it to the next level. Why is Laravel so popular? Because once you learn it, creating complex applications are easy to do, because thousands of other people have created code we can plug (packages) into our Laravel application to make it even better. There are many reasons why Laravel is on the top when it comes to PHP frameworks but we are not here to talk about that, right? You are here because you want to learn Laravel, and find out what course to take, right? Alright, let's do this together and find out what this course has to offer? "
     },
     {
         "CourseID": 3,
@@ -104,32 +102,32 @@
             "average": 4.5
         },
         "ShortDescription": [
-            "Create modern websites with HTML CSS and JavaScript",
-            "develop web applications from scratch",
-            "improved use of HTML CSS and JavaScript",
-            "write more efficient web code"
+            "MongoDB Introduction & Installation",
+            "MongoDB CRUD Operations",
+            "MongoDB Operators",
+            "Working with Arrays"
         ],
         "CourseFeatures": [
-            "21.5 hours of video",
-            "68 articles + resources",
+            "36 hours of video",
+            "56 articles + resources",
             "Certificate of completion"
         ],
         "Syllabus": [
-            "HTML Basics",
-            "CSS Basics",
-            "JS Basics",
-            "Project Project",
-            "HTML Advanced",
-            "CSS Advanced",
-            "JS ES6",
-            "Project Personal Blog"
+            "Database Basics",
+            "SQL Basics",
+            "No SQL",
+            "API",
+            "MongoDB Installation",
+            "MongoDB CRUD Methods",
+            "MongoDB + Frontend",
+            "MongoDB GET & POST"
         ],
         "Requirement": [
             "desire to learn",
             "Hardcore commitment",
             "Access to internet"
         ],
-        "Description": "Develop the skills you need in order to be able to make websites from scratch.  Learn to use HTML5, CSS3, JavaScript and jQuery together in building modern beautiful, fully functional amazing websites.HTML CSS and JavaScript are the cornerstones of the web.  These are the foundation languages of every web page today, and every page has all or combinations of these core technologies.This course is perfect for anyone who wants to learn about web design and web development.   Knowing how to use these core technologies provides limitless possibilities.  This course will help you get started quickly and lay the foundation for programming fundamentals."
+        "Description": "MongoDB is one of the most popular NoSQL document oriented database written in C++.        This tutorial will help you get started quickly to use MongoDB with lots of hands-on exercises. This tutorial is intended for students and new developers who are eager to learn MongoDB Database in easy and fastest possible manner.        This tutorial will provide you MongoDB concepts which will help you to get started with MongoDB quickly. It will starts with Mongo Introduction and then we will use MongoDB Atlas (Free cloud cluster provided by MongoDB) to setup our environment. We will continue our course by deep diving into various CRUD operations such as inserting, reading, applying filter, updating, deleting and using projections. Then we will work with various relevant operators that can be used with MongoDB on day to day basis. Then we will do a lots of hands on exercise to work with complex data types such as Array i.e performing CRUD with complex types along with projections.I am just bootstrapping this course but next coming days , this course will get updated with more advance topics such as Working with Indexes, using Aggregation Framework, moving from shell to drivers and start using MongoDB GUI. So let's get started with this exciting course!!!!!"
     },
     {
         "CourseID": 4,
@@ -148,32 +146,28 @@
             "average": 4.5
         },
         "ShortDescription": [
-            "Create modern websites with HTML CSS and JavaScript",
-            "develop web applications from scratch",
-            "improved use of HTML CSS and JavaScript",
-            "write more efficient web code"
+            "Use git to manage projects by yourself or with a team",
+            "Upload git repositories to Github",
+            "Learn everything you need to know to get up and running with git as fast as possible",
+            "Learn committing, reverting, branching, cloning and more"
         ],
         "CourseFeatures": [
-            "21.5 hours of video",
-            "68 articles + resources",
+            "44 hours of video",
+            "90 articles + resources",
             "Certificate of completion"
         ],
         "Syllabus": [
-            "HTML Basics",
-            "CSS Basics",
-            "JS Basics",
-            "Project Project",
-            "HTML Advanced",
-            "CSS Advanced",
-            "JS ES6",
-            "Project Personal Blog"
+            "Git Started",
+            "Git Learning",
+            "Github",
+            "Getting to the end"
         ],
         "Requirement": [
-            "desire to learn",
-            "Hardcore commitment",
-            "Access to internet"
+            "Access to the Terminal/Command Line",
+            "Sufficient Knowledge of English",
+            "Working internet connection and computer access"
         ],
-        "Description": "Develop the skills you need in order to be able to make websites from scratch.  Learn to use HTML5, CSS3, JavaScript and jQuery together in building modern beautiful, fully functional amazing websites.HTML CSS and JavaScript are the cornerstones of the web.  These are the foundation languages of every web page today, and every page has all or combinations of these core technologies.This course is perfect for anyone who wants to learn about web design and web development.   Knowing how to use these core technologies provides limitless possibilities.  This course will help you get started quickly and lay the foundation for programming fundamentals."
+        "Description": "In this course, we will go through everything you need to know to use git and GitHub to manage your projects.We will create a test project and go over everything from installing git, git branches to uploading to GitHub.This course is incredibly fast paced (hence the smaller length). You will get up and running with git in minutes. Why waste your time listening to long lectures about things you will never use when you could instead take a shorter, more focused git course, and learn what you need to learn a lot quicker? This git course is unlike any other, you will learn what git commands you need to quickly.You will also learn how to integrate git with Github so that you can share your git projects with millions.Git used to intimidate me. I did not want to memorize tons of git commands and I was scared I would mess up my projects. Luckily, I got over those challenges and created the perfect git course, that takes the fast learning approach that has made my other courses successful. If you feel like you are in the situation I was in, this course is for you.In conclusion, if you want a focused, fast-paced course that will get you up and running with git and GitHub in minutes, then Learn Git: Everything You Need To Know is the course you've been looking for."
     },
     {
         "CourseID": 5,
@@ -192,10 +186,10 @@
             "average": 4.5
         },
         "ShortDescription": [
-            "Create modern websites with HTML CSS and JavaScript",
-            "develop web applications from scratch",
-            "improved use of HTML CSS and JavaScript",
-            "write more efficient web code"
+            "Install Wordpress on your PC or Mac computer, so you can learn without having to pay hosting or domain fees.",
+            "Navigate around the Wordpress dashboard, know what everything does and how to use it.",
+            "Understand the main features of Wordpress",
+            "Create enormous projects"
         ],
         "CourseFeatures": [
             "21.5 hours of video",
@@ -203,21 +197,21 @@
             "Certificate of completion"
         ],
         "Syllabus": [
-            "HTML Basics",
-            "CSS Basics",
-            "JS Basics",
-            "Project Project",
-            "HTML Advanced",
+            "Intro",
+            "WP installation",
+            "First Look",
+            "Practice Project",
+            "Theme, plugin & widgets",
             "CSS Advanced",
-            "JS ES6",
-            "Project Personal Blog"
+            "Homepage",
+            "Legal pages"
         ],
         "Requirement": [
             "desire to learn",
             "Hardcore commitment",
             "Access to internet"
         ],
-        "Description": "Develop the skills you need in order to be able to make websites from scratch.  Learn to use HTML5, CSS3, JavaScript and jQuery together in building modern beautiful, fully functional amazing websites.HTML CSS and JavaScript are the cornerstones of the web.  These are the foundation languages of every web page today, and every page has all or combinations of these core technologies.This course is perfect for anyone who wants to learn about web design and web development.   Knowing how to use these core technologies provides limitless possibilities.  This course will help you get started quickly and lay the foundation for programming fundamentals."
+        "Description": "This course will guide you through every single step from installation to finished website.  I'll show you how you can install Wordpress on your own computer for free, so you don't have to pay for a domain name or hosting fees while you complete this course.  Once you've got Wordpress installed on your computer, you will learn how to build and run a successful, beautiful, responsive-design website you can be proud of.After taking you through all of the main options in Wordpress, explaining what each one does and how you set it up, I'll let you watch over my shoulder as I build a Wordpress website.  It will be an affiliate site that I hope will make me passive income for many years to come. "
     },
     {
         "CourseID": 6,
@@ -236,31 +230,31 @@
             "average": 4.5
         },
         "ShortDescription": [
-            "Create modern websites with HTML CSS and JavaScript",
-            "develop web applications from scratch",
-            "improved use of HTML CSS and JavaScript",
-            "write more efficient web code"
+            "Full Stack Web Development",
+            "Backend Development with Node, Express JS and Mongo DB",
+            "Build RESTful APIs",
+            "Front End Web Development with Angular 12"
         ],
         "CourseFeatures": [
-            "21.5 hours of video",
-            "68 articles + resources",
+            "120 hours of video",
+            "150 articles + resources",
             "Certificate of completion"
         ],
         "Syllabus": [
-            "HTML Basics",
-            "CSS Basics",
-            "JS Basics",
-            "Project Project",
-            "HTML Advanced",
-            "CSS Advanced",
-            "JS ES6",
+            "Intro",
+            "Node Setup",
+            "React",
+            "Express",
+            "Node",
+            "React",
+            "angular",
             "Project Personal Blog"
         ],
         "Requirement": [
-            "desire to learn",
+            "basic html, css and javascript",
             "Hardcore commitment",
             "Access to internet"
         ],
-        "Description": "Develop the skills you need in order to be able to make websites from scratch.  Learn to use HTML5, CSS3, JavaScript and jQuery together in building modern beautiful, fully functional amazing websites.HTML CSS and JavaScript are the cornerstones of the web.  These are the foundation languages of every web page today, and every page has all or combinations of these core technologies.This course is perfect for anyone who wants to learn about web design and web development.   Knowing how to use these core technologies provides limitless possibilities.  This course will help you get started quickly and lay the foundation for programming fundamentals."
+        "Description": "Hello Everyone, and welcome to this course on Angular 12, Node, Express JS and Mongo DB full-stack web development.In this course, you will learn how to develop a web application from scratch using popular technologies such as Mongo DB for the database,Node, Express JS for the back end web development,And the latest Angular 12 for the front end web development.We will first start with installing and setting up the environment needed for our database, back end project and front end project.Then we will develop REST API end points using Node and Express JS.Finally we will be using Angular 12 to design the front end part of our App.You will learn how to create the navigation menu and tables using bootstrap, add routing and navigation to our Angular App, add modal pop up window with drop downs and date pickers, and also add upload profile picture functionality and store it in the backend server. We will also learn how to add custom filtering and sorting features without using any third party packages.I am sure that this course will definitely help you in your journey as a full stack web developer. Welcome to the course, and happy learning."
     }
 ]
